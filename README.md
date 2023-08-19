@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**mauriciocr22/mauriciocr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Maurício
 
-Here are some ideas to get you started:
+Seja bem vindo ao meu GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Sobre mim
+Sou um desenvolvedor front-end com foco em javascript (especificamente React), apaixonado por tecnologia e com muita vontade de aprender. 
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, TailwindCSS, Typescript, Git.  
+Conhecimentos em Node.js, React Native e C#.
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciocr22/)
+
+
