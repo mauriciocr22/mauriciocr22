@@ -5,7 +5,7 @@ Seja bem vindo ao meu GitHub.
 
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor front-end com foco em javascript (especificamente React), apaixonado por tecnologia e com muita vontade de aprender. 
+Sou um desenvolvedor com foco em javascript (especificamente React e Node), apaixonado por tecnologia e com muita vontade de aprender. 
 
 
 ## 🛠 Skills
