@@ -9,8 +9,8 @@ Sou um desenvolvedor com foco em javascript (especificamente React e Node), apai
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, TailwindCSS, Typescript, Git.  
-Conhecimentos em Node.js, React Native e C#.
+Javascript, HTML, CSS, TailwindCSS, Typescript, Node e Git.  
+Conhecimentos em React Native e C#.
 
 
 ## 🔗 Links
