@@ -23,7 +23,8 @@ Meu portfolio pessoal
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mauriciocr22&show_icons=true&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciocr22&theme=dark)
+
 
 ## 📫 Contato
 
