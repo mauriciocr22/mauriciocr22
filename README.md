@@ -1,20 +1,35 @@
+# Maurício Rodrigues
 
-# Olá, eu sou o Maurício
+**Desenvolvedor Fullstack | Estudante de Tecnologia em Sistemas para Internet - FATEC**
 
-Seja bem vindo ao meu GitHub.
+Desenvolvedor fullstack focado em JavaScript/TypeScript, construindo aplicações web modernas com React e Node.js. Atualmente desenvolvendo meu TCC: um analisador de documentos com IA utilizando Google Gemini API.
 
+## 🔧 Tech Stack
 
-## 🚀 Sobre mim
-Sou um desenvolvedor com foco em javascript (especificamente React e Node), apaixonado por tecnologia e com muita vontade de aprender. 
+**Frontend:** React, Next.js, React Native, TypeScript, TailwindCSS  
+**Backend:** Node.js, Express, Java  
+**Ferramentas:** Git, VS Code, n8n  
+**Estudando:** Arquitetura de Software, Integração de IA
 
+## 🚀 Projetos em Destaque
 
-## 🛠 Skills
-Javascript, HTML, CSS, TailwindCSS, React, React Native, Typescript, Node e Git.  
-Conhecimentos em Java e C#.
+### [ProductRadar](https://github.com/mauriciocr22/productradar)
+Analisador de sentimentos de reviews utilizando IA para classificação automática.
+- **Stack:** React, Node.js, AI Integration
 
+### [Meu Portfolio](https://github.com/mauriciocr22/portfolio)
+Meu portfolio pessoal
+- **Stack:** React, Typescript, Tailwind, i18n
 
-## 🔗 Links
+## 📊 GitHub Stats
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mauriciocr22.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciocr22/)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mauriciocr22&show_icons=true&theme=dark)
 
+## 📫 Contato
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mauriciocr22.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciocr22/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciocr223@exemplo.com)
+
+---
+💡 **Atualmente buscando oportunidades** como desenvolvedor fullstack em Santos/SP e região
